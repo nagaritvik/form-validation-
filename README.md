@@ -8,4 +8,6 @@ Name must not be less than 5 characters
  Password and confirm password should match
  Whenever any of the above are not met, the error should pop saying ex; “enter
 correct email” or “password is not strong” etc
+Link to this project webiste
+https://form-validator-check.netlify.app/
 
